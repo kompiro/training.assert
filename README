@@ -1,0 +1,14 @@
+Training Gips for JUnit newbies 
+---------------------------------
+
+This library is a extension for JUnit.
+
+Some JUnit newbies always don't call Assert.assert* methods.This javaagent library force to use Assert.assert to test success.
+
+How to use
+-----------
+ 1. download from below
+   http://kompiro.org/maven/junit/extensions/quick/training.assert/0.0.1/training.assert-0.0.1.jar
+
+ 2. run test
+   java -javaagent:training.assert-0.0.1.jar -classpath...
