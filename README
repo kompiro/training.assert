@@ -8,7 +8,6 @@ Some JUnit newbies always don't call Assert.assert* methods.This javaagent libra
 It depends...
 --------------
  JUnit 4.8
- Javasist 3.12
 
 How to use
 -----------
