@@ -5,6 +5,11 @@ This library is a extension for JUnit.
 
 Some JUnit newbies always don't call Assert.assert* methods.This javaagent library force to use Assert.assert to test success.
 
+It depends...
+--------------
+ JUnit 4.8
+ Javasist 3.12
+
 How to use
 -----------
  1. download from below
